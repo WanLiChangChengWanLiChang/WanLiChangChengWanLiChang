@@ -1,4 +1,4 @@
-#B.Y.  Telegram @wlccwlc
+#B .Y.  Telegram @wlccwlc
 #TG Chaanel @WanLiChangChengWanLiChang
 # CVE-2024-3272 + CVE-2024-3273 D-Link-Nas RCE
 #FOFA:body="Text:In order to access the ShareCenter"
